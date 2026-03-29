@@ -3,13 +3,7 @@
 🔐 Security Engineer | Threat Detection | SIEM | Cloud Security
 
 
-## 🛠️ Skills
 
-* SIEM: Splunk, Microsoft Sentinel
-* EDR: CrowdStrike
-* Cloud: AWS / Azure
-* Scripting: Python
-* IAM: Okta, Saviynt
 
 ## 📂 Projects
 
