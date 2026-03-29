@@ -14,19 +14,19 @@ This project demonstrates an end-to-end pipeline for ingesting CRM logs, process
 API-based log ingestion simulation
 Detection rules (brute force, privilege escalation)
 SOC-ready alert generation
-🧱 Architecture
+
 
 CRM API → Collector → Detection Engine → Alerts
 
-🚨 Sample Detections:
+Detections:
 Brute-force login attempts
 Privilege escalation
 
 
-🛠️ Tech Stack:
+Tech Stack:
 Python, JSON (simulating SIEM pipeline)
 
-🎯 Why This Project:
+Why This Project:
 Demonstrates practical security engineering skills:
 Log ingestion pipelines
 Detection engineering
