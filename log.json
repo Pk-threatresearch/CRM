@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-03-28T10:00:00Z",
+    "user": "Pranita.k",
+    "action": "login_failed",
+    "ip": "192.168.1.10"
+  },
+  {
+    "timestamp": "2026-03-28T10:01:00Z",
+    "user": "Pranita.k",
+    "action": "login_failed",
+    "ip": "192.168.1.10"
+  },
+  {
+    "timestamp": "2026-03-28T10:02:00Z",
+    "user": "Pranita.k",
+    "action": "login_success",
+    "ip": "192.168.1.10"
+  },
+  {
+    "timestamp": "2026-03-28T10:05:00Z",
+    "user": "admin.user",
+    "action": "role_change",
+    "ip": "10.0.0.5",
+    "role": "admin"
+  }
+]
