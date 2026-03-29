@@ -18,15 +18,15 @@ SOC-ready alert generation
 
 CRM API → Collector → Detection Engine → Alerts
 
-🚨 Sample Detections
+🚨 Sample Detections:
 Brute-force login attempts
 Privilege escalation
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Python, JSON (simulating SIEM pipeline)
 
-🎯 Why This Project
+🎯 Why This Project:
 Demonstrates practical security engineering skills:
 Log ingestion pipelines
 Detection engineering
