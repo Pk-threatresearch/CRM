@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Pranita Kulkarni
 
-🔐 Security Engineer | Threat Detection | SIEM | Cloud Security
 
 
 
