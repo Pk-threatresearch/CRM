@@ -5,7 +5,7 @@
 
 ## 📂 Projects
 
-CRM Log Pipeline → SIEM Detection Demo (see below)
+CRM Log Pipeline → SIEM Detection Demo
 This project demonstrates an end-to-end pipeline for ingesting CRM logs, processing them, and generating actionable security alerts.
 
 Key Features
